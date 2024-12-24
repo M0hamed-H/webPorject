@@ -31,7 +31,8 @@ p {
     align-items: center;
     align-content: center;
     color: white;
-    height: 30vh;
+/*     height: 30vh; */
+    padding: 3vh 0;
     line-height: 2;
     font-size: 1.25vw;
 }

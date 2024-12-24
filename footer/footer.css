@@ -33,7 +33,7 @@ p {
     color: white;
     height: 55vh;
     line-height: 2;
-    font-size: large;
+    font-size: 1.25vw;
 }
 
 #leftWords {
@@ -46,7 +46,7 @@ p {
 #contactWords {}
 
 .phone {
-    width: 30px;
+    width: 2.05vw;
     padding: 2px;
     margin-block-end: -10px;
 
@@ -60,5 +60,5 @@ a {
 
 img {
     padding-top: 10px;
-    width: 40px;
+    width: 2.75vw;
 }
